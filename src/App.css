@@ -1,7 +1,7 @@
 /* src/App.css */
 body {
   font-family: 'Roboto', sans-serif;
-  background: url('public/TodoList.jpg') no-repeat      center center fixed;
+  background: url('/TodoList.jpg') no-repeat      center center fixed;
   background-size: cover;
   margin: 0;
   padding: 0;
